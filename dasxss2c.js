@@ -1,1 +1,1 @@
-alert("Miau");
+alert('Miau');
